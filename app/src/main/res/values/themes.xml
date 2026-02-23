@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CampusPlacement" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background, animated icon, and icon background -->
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        
+        <!-- Use the same app_logo_foreground as the app icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo_foreground</item>
+        
+        <!-- Post-splash screen theme -->
+        <item name="postSplashScreenTheme">@style/Theme.CampusPlacement</item>
+    </style>
+</resources>
