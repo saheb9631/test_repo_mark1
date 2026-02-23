@@ -1,0 +1,35 @@
+[
+  {
+    "company_name": "Wissen Technology Pvt. Ltd.",
+    "drive_month": "March 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "Will be intimated later",
+    "company_website": "http://www.wissen.com",
+    "stream_required": "B.Tech (CSE, IT) Eligibility Criteria CGPA 7.5 throughout. Students should not have any standing backlogs.",
+    "eligibility": [
+      "CGPA 7.5 throughout. Students should not have any",
+      "standing backlogs."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Trainee Analyst"
+    ],
+    "job_location": "Bangalore, Mumbai, Pune",
+    "date_of_joining": "April 2025 (students will be allowed to attempt online examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 1 year Internship : 25 K per month Salary after 1 year Internship : CTC 11 Lacs (8 LPA Fixed + 1.5 Lacs (As Retention Bonus, in Oct, 2027) + 1.5 Lacs (As Retention Bonus, in Oct, 2028)",
+      "bond": "18 months service bond (with INR 4,00,000/- penalty if the bond is violated)"
+    },
+    "selection_process_steps": [
+      "1. Online Test -",
+      "Virtual",
+      "2. Technical",
+      "Round 1 + Technical Round 2 - Virtual",
+      "3. Offline Test",
+      "at Campus + Interviews \u2013 On campus",
+      "4. Director Round" 
+    ],
+    "category": "tech_roles"
+  }
+]

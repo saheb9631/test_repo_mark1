@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Sifars",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "December (1 st Week)",
+    "company_website": "https://www.sifars.com/en/",
+    "stream_required": "B.E / B.Tech (CSE, IT, ECE) MCA",
+    "eligibility": [
+      "65% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development Engineer \u2013 I"
+    ],
+    "job_location": "Mohali (Punjab)",
+    "date_of_joining": "5 th January 2026 (Examination leaves will be provided )",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month Internship : Rs. 15,000/- pm Salary after 6 month Internship : CTC 5 LPA (Rs 33,438 pm in hand)",
+      "bond": "\u2022 A 1-year service agreement will be applicable from the date of joining. \u2022 In case the candidate resigns before completion of the agreement period or breaches any major clause (confidentiality, non-compete, non-solicitation, communication, etc.), the following penalty will be applicable: Compensation Cost/ Liquidated Damages: \u20b91,80,000"
+    },
+    "selection_process_steps": [
+      "\u00b7 Assessment-in lab",
+      "\u00b7 Technical round with Head Developer",
+      "\u00b7 IQ & Technical round with CEO",
+      "\u00b7 Hr Round"
+    ],
+    "category": "tech_roles"
+  }
+]

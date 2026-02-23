@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "Xorosoft Technologies Private Limited .",
+    "drive_month": "December 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "After 10 th Jan\u20192026",
+    "company_website": "https://xorosoft.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "75% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineer Trainee"
+    ],
+    "job_location": "Mohali",
+    "date_of_joining": "Jan 2026 (Leaves will be provided during exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month Internship : \u20b925,000 per month Salary after 6 month Internship : CTC 5 \u2013 6 LPA (Only deductions for PF & Professional Tax as per Govt. Norms)",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Online",
+      "Assessment",
+      "Technical Interview",
+      "PI"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

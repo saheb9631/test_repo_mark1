@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Advantage Club Technologies Private Limited.",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "https://www.advantageclub.ai/",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "65% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Quality Assurance Engineer"
+    ],
+    "job_location": "Gurugram",
+    "date_of_joining": "January 26 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month of Internship : 20,000/- Per Month Salary during 6 months of Internship : CTC 5 LPA",
+      "bond": "None"
+    },
+    "selection_process_steps": [
+      "Round 1 - Coding Assessment",
+      "Round 2 - Technical Round 1",
+      "Round 3 - Technical Round 2",
+      "Round 4 - HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

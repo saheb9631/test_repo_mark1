@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Bounteous x Accolite",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "\u00b7 For 2025 Batch : Interviews begin next Week \u00b7 For 2026 Batch : Process to follow shortly after",
+    "company_website": "https://www.bounteous.com/about/",
+    "stream_required": "B.E / B.Tech (CSE, IT) M.E / M.Tech (CSE, IT) M.Sc (CS) MCA",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2025",
+    "roles_offered": [
+      "Software Engineer"
+    ],
+    "job_location": "Bengaluru, Chennai, Gurugram, Hyderabad, Mumbai, or any of our India collaboration centres.",
+    "date_of_joining": "Immediately",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 25 K per month Salary after 6 months of Internship (on confirmation) : CTC 6,00,000 per annum \u00b7 Tenure Bonus: Up to \u20b93,00,000 (as per company policy)",
+      "bond": "In case of separation: 1 calendar year of DOJ, Training & Development cost capped at INR 2,50,000/-"
+    },
+    "selection_process_steps": [
+      "\u2022 Round 1 \u2013 MCQ + Coding Assessment",
+      "\u2022 Round 2 \u2013 Behavioral + Coding Assessment",
+      "\u2022 Round 3 \u2013 Technical Interview (Round 1)",
+      "\u2022 Round 4 \u2013 Technical Interview (Round 2)",
+      "\u2022 Round 5 \u2013 HR Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "BigBasket.com, a Tata Enterprise",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.bigbasket.com linkedin profile https://www.linkedin.com/company/bigbasket-com/?originalsubdomain=in",
+    "stream_required": "B.E / B.Tech (CSE, IT, EEE, ECE)",
+    "eligibility": [
+      "65% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "During Internship : Engineering Intern",
+      "After Internship : SDE"
+    ],
+    "job_location": "Bangalore",
+    "date_of_joining": "January 2026 Onwards",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 20,000 per month Salary after 6 months Internship (on confirmation) : CTC 9.5 LPA (Based upon performance or availability of the openings)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "Online assessment followed by Tech & HR",
+      "interview"
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company_name": "Springworks (SPRINGROLE INDIA PRIVATE LIMITED)",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Dec (1 st Week)",
+    "company_website": "http://www.springworks.in",
+    "stream_required": "B.E / B.Tech (CSE, IT or related fields)",
+    "eligibility": [
+      "\u2022 No restrictions in terms of percentage or CGPA.",
+      "Allow maximum students possible.",
+      "\u2022 The candidate should have a strong understanding of data structures and",
+      "algorithms.",
+      "\u2022 Prior experience with coding languages such as React, Node, or JavaScript",
+      "is desirable but not mandatory."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development Engineer (SDE) Interns"
+    ],
+    "job_location": "Mode of Internship: This will be a remote internship, providing flexibility for students to work from home. Joining location after internship will be intimated by HR later",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 25,000 per month Salary after 6 months Internship (on confirmation) : CTC between 6 - 10 LPA",
+      "bond": "No. But we are looking students to not leave in between unless performance is an issue."
+    },
+    "selection_process_steps": [
+      "1. First Round - Consists of two stages: 20-minute AI voice",
+      "interview upon passing",
+      "a 15-minute coding round on our AI interview.",
+      "2. Final round with team member",
+      "Device",
+      "Requirements",
+      "1. Laptop:",
+      "Minimum Intel i5 (8th Gen) or equivalent",
+      "8 GB RAM",
+      "256 GB SSD.",
+      "2. Internet: Stable broadband with at least 80 Mbps download",
+      "20 Mbps",
+      "upload speed.",
+      "3. Peripherals: Functional webcam",
+      "microphone."
+    ],
+    "category": "tech_roles"
+  }
+]

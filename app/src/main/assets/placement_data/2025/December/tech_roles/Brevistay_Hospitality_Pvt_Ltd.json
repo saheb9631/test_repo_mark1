@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "Brevistay Hospitality Pvt. Ltd",
+    "drive_month": "December 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "January 2026 (1 st week)",
+    "company_website": "https://www.brevistay.com/",
+    "stream_required": "Any Under Graduates (BBA, B.Com, BCA, Hotel Mgmt, BA etc)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Business Development Intern",
+      "Executive"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "January 2026 (3 rd week)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months of Internship \u2013 15,000/- Per Month Salary after 6 months of Internship \u2013 3.5 LPA + Variable (Depending upon the candidate)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1. Resume screening",
+      "2. Telephonic HR discussion",
+      "3. Technical interview",
+      "4. Final interview with Hiring Manager/HR Manager",
+      "5. Offer rollout & onboarding"
+    ],
+    "category": "tech_roles"
+  }
+]

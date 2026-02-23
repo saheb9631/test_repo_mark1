@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Survey2Connect Private Limited (Xebo.ai)",
+    "drive_month": "November 2025",
+    "drive_type": "ON Campus",
+    "drive_dates": "Next Week",
+    "company_website": "www.xebo.ai",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "65% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "During training : Technical Trainee",
+      "After training : Software Engineer"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "December 2025 (Post examination) or January 2026 (1 st Week). Leaves will be provided for final examination",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u25cf Stipend during training (till receive provisional degree) : 20 K per month \u25cf Salary after training (till receive provisional degree) : CTC 6 \u2013 7 LPA (PF deduction)",
+      "bond": "Yes. The bond would be of 2 lacs for 2 years . In case they decide to leave the organization before this period, they are required to pay this amount in full to the employer to incur the cost of training."
+    },
+    "selection_process_steps": [
+      "\u2022 Aptitude Test",
+      "\u2022 3 Technical Interviews",
+      "\u2022 Management/HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

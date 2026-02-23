@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "TechBridge Consultancy Services Pvt. Ltd.",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "After 15 th Dec (WILL INFORM)",
+    "company_website": "https://tech-bridge.biz/ linkedin https://www.linkedin.com/company/techbridge-2/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "85% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Software Engineer"
+    ],
+    "job_location": "Gurgaon (Haryana)",
+    "date_of_joining": "JANUARY, 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Probation : \u20b920,000 per month Salary after 6 months Probation : CTC 5 LPA",
+      "bond": "\u2022 Service Commitment: 12 months minimum \u2022 Candidate shall not resign before 12 months from the date of execution of the MoU \u2022 Bond Amount: \u20b91,00,000/- (Rupees One Lakh only) payable in case of premature termination \u2022 Security: Post-dated/undated cheque of \u20b91,00,000/- \u2022 Candidates can also deposit 10th Marksheet instead of cheque."
+    },
+    "selection_process_steps": [
+      "1. Assessment Round (Online Test)",
+      "2. Coding Round + IQ Assessment",
+      "3. Assignment Task",
+      "4. Technical Interview (Online / F2F if local)",
+      "5. Management Round"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

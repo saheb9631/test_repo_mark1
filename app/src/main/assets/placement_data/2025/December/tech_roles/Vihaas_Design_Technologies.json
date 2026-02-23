@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Vihaas Design Technologies",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "3 rd week of Dec",
+    "company_website": "https://www.vihaasdtech.com/",
+    "stream_required": "B.E / B.Tech (CS, IT , ECE)",
+    "eligibility": [
+      "\u2022 Programming Languages: C, C++, PHP, JavaScript, HTML",
+      "\u2022 Operating Systems: Linux (Mandatory)"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Developer Intern"
+    ],
+    "job_location": "Solan, Himachal Pradesh",
+    "date_of_joining": "Jan 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months of Internship : 20,000/- per month Salary after 6 months of Internship : CTC 4.8 LPA (Based on performance only)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1. Resume Short listing",
+      "2. Virtual Interview Round"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

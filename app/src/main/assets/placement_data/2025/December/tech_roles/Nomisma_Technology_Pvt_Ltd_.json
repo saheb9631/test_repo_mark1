@@ -1,0 +1,65 @@
+[
+  {
+    "company_name": "Nomisma Technology Pvt. Ltd.",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "www.nomisma.ai",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "\u00b7 Frontend",
+      "Engineer: Strong JavaScript/TypeScript fundamentals with basic React",
+      "Native knowledge, ability to translate Figma designs into UI, and eagerness",
+      "to learn mobile development through hands-on projects.",
+      "Backend Engineer: Solid",
+      "Python programming skills with understanding of APIs and databases,",
+      "willingness to learn AI/ML frameworks (Hugging Face, vector databases), and a",
+      "strong bias for building and shipping real products.",
+      "DevOps Engineer: Comfortable",
+      "with Linux/Bash/Git basics, exposure to cloud platforms (AWS/GCP/Azure)",
+      "through coursework or personal projects, and eagerness to learn",
+      "infrastructure automation and CI/CD pipelines.",
+      "AI/ML Engineer: Pursuing/completed",
+      "Bachelor's in Computer Science/Data Science with foundational knowledge of",
+      "Python ML libraries (TensorFlow/PyTorch), strong problem-solving skills, and",
+      "interest in signal processing or LLMs."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "o Frontend Developer (React Native - Java",
+      "script)",
+      "o Backend Developer (Node.js",
+      "Python",
+      "Java",
+      "Django)",
+      "o AI",
+      "ML Developer",
+      "o DevOps Engineer (AWS)"
+    ],
+    "job_location": "Mohali, Sector 74, Mohali, Chandigarh",
+    "date_of_joining": "January 2026 (from 5 th to 15 th of January). Leaves will be provided for examination",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 15 \u2013 20 K per month Salary after 6 months Internship : CTC 45 \u2013 65 K per month o Competitive packages o Hands-on training o Career growth opportunities",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "Round 1: Screening Call (30 min) \u2013",
+      "Motivation",
+      "basic knowledge",
+      "communication skills",
+      "Round 2: Coding Round (60-90 min) \u2013 Live coding",
+      "debugging scenarios",
+      "AI",
+      "concepts",
+      "application",
+      "Round 3: Culture Fit (45 min) \u2013 Learning ability",
+      "collaboration style",
+      "handling feedback",
+      "Round 4: Executive Round (30 min) \u2013 Vision alignment",
+      "ambition",
+      "long-term potential with Founder"
+    ],
+    "category": "tech_roles"
+  }
+]

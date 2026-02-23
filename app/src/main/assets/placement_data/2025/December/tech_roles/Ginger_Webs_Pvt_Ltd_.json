@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Ginger Webs Pvt. Ltd.",
+    "drive_month": "December 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "December 2025 (2 nd Week)",
+    "company_website": "https://thinkexam.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT, ECE) BCA MCA",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Trainee (Technical)"
+    ],
+    "job_location": "Noida.",
+    "date_of_joining": "Jan\u201926 (Examination leaves will be provided )",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month Internship : \u20b925,000 per month (All in hand) Salary after 6 month Internship : CTC 4 LPA (30 K\u2013 32 K in hand) (PF deduction is optional)",
+      "bond": "6 months Service agreement"
+    },
+    "selection_process_steps": [
+      "\u25cf Screens the CV",
+      "\u25cf Online test",
+      "\u25cf GD",
+      "\u25cf PI"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "company_name": "Nucleus Software Exports Ltd.",
+    "drive_month": "December 2025",
+    "drive_type": "ON Campus",
+    "drive_dates": "23 rd Dec\u201925",
+    "company_website": "https://www.nucleussoftware.com/about-us/",
+    "stream_required": "B.E / B.Tech (CSE / IT / ECE)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Assistant Software Engineer"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "July 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 5 LPA + 25 K joining bonus ( from Day one ) P/F Deduction Only",
+      "bond": "1 year bond (25 K as penalty if breach the bond"
+    },
+    "selection_process_steps": [
+      "1. Assessment Test",
+      "Assessment",
+      "Structure:",
+      "\u00b7 Section",
+      "1: Cognitive Ability \u2013 30 Questions",
+      "\u00b7 Section",
+      "2: Hands-on Programming \u2013 1 Question (Choose any one language: C",
+      "C++ or Java)",
+      "\u00b7 Section",
+      "3: Technical MCQs \u2013 15 Questions",
+      "\u00b7 Total",
+      "Duration: 75 minutes",
+      "2. Personal Interview (2 rounds)"
+    ],
+    "category": "tech_roles"
+  }
+]

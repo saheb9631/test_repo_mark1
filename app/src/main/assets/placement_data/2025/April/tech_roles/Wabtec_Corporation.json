@@ -1,0 +1,37 @@
+[
+  {
+    "company_name": "Wabtec Corporation",
+    "drive_month": "April 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next week",
+    "company_website": "https://www.wabteccorp.com/",
+    "stream_required": "M.E / M.Tech (CS, IT) \u2014 Only CU & CEC students",
+    "eligibility": [
+      "Minimum 8 CGPA",
+      "No prior work experience",
+      "Programming knowledge (C/C++/Java/Python)",
+      "Frontend knowledge (Angular, JavaScript)",
+      "Understanding of RDBMS",
+      "Knowledge of data structures and algorithms",
+      "AWS or cloud knowledge is a plus",
+      "Good teamwork and problem solving skills"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineering Intern (Digital Solutions)"
+    ],
+    "job_location": "Bangalore",
+    "date_of_joining": "June (after exams)",
+    "package_salary": {
+      "stipend": "35,000 per month (1 year internship)",
+      "ppo_ctc": "9.5 LPA (performance based)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "Online test",
+      "Technical interviews",
+      "HR round"
+    ],
+    "category": "tech_roles"
+  }
+]

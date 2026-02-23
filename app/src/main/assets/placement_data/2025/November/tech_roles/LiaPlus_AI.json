@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "LiaPlus AI",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "This Week",
+    "company_website": "www.liaplus.com",
+    "stream_required": "B.E / B.Tech (CS, IT) Eligibility Criteria (any %age cut ?) 70 % throughout",
+    "eligibility": [],
+    "batch": "2026",
+    "roles_offered": [
+      "AI Engineering Intern"
+    ],
+    "job_location": "Delhi",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : Rs. 25,000 - 30,000 pm Salary after 6 months Internship (If PPO given) : CTC between \u20b99\u201312 LPA, subject to performance and company requirements",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "Online Test",
+      "Technical interview",
+      "PI"
+    ],
+    "category": "tech_roles"
+  }
+]

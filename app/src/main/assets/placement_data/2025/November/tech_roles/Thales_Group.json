@@ -1,0 +1,29 @@
+[
+  {
+    "company_name": "Thales Group",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "\u00b7 20 th November: Online test \u00b7 21 st November : Technical interviews",
+    "company_website": "www.thalesgroup.com",
+    "stream_required": "B.Tech. / B.E. / M.Tech (Computer Science / Information Technology / Electronics & Communication / Cybersecurity / Embedded)",
+    "eligibility": [
+      "75% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineer \u2013 Intern"
+    ],
+    "job_location": "Noida, India",
+    "date_of_joining": "Jan 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 25,000 pm Stipend during 6 months Internship : CTC 9 LPA",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "\u00b7 20 th November: Online test (ON Campus)",
+      "\u00b7 21 st November: Technical interviews (ON Campus)"
+    ],
+    "category": "tech_roles"
+  }
+]

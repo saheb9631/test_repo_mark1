@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Ultraviolet Cyber",
+    "drive_month": "October 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "11 th -Nov-25",
+    "company_website": "https://www.uvcyber.com/",
+    "stream_required": "B.Tech (CS-Cyber Security)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Application Security Testing Intern"
+    ],
+    "job_location": "Bangalore - Onsite",
+    "date_of_joining": "1 st Week of Jan 26",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "During 6 months of internship stipend will be - 40K per/month + 2700 Sodexo food coupon After that pay package will be - 6.15 LPA + 2L Joining bonus (1st yr only) + 32400 food coupons + other company benefits (Medical, Gratuity etc.)",
+      "bond": "Applicable after completion of internship If any student decides to leave within less than a year from the joining date (FTE) then he has to pay full refund of the joining bonus and if post 1 year completion and before 2 years completion, any student decides to leave then he has to pay back 50% of the joining bonus"
+    },
+    "selection_process_steps": [
+      "Written/Practical",
+      "test",
+      "Technical",
+      "mgmt interviews"
+    ],
+    "category": "tech_roles"
+  }
+]

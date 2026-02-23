@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "314e Corporation",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "https://www.314e.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT, Electrical, Electronics)",
+    "eligibility": [
+      "80% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Interns Associate"
+    ],
+    "job_location": "Bangalore",
+    "date_of_joining": "January (leaves examinations will be provided)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : Rs 50,000 per month Salary after 6 months Internship : CTC 10 \u2013 12 LPA (Depending on the internship performance).",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "2 Technical rounds of virtual interview."
+    ],
+    "category": "tech_roles"
+  }
+]

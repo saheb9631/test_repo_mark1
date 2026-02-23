@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Capillary Technologies",
+    "drive_month": "September 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "TBD",
+    "company_website": "https://www.capillarytech.com/",
+    "stream_required": "B.Tech (CS/IT)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "202 6",
+    "roles_offered": [
+      "Intern Product - Loyalty Group"
+    ],
+    "job_location": "Bengaluru",
+    "date_of_joining": "Jan-26",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during six month internship: 30,000 per month CTC 12-14 LPA ( Full-Time Conversion: Based on performance and business requirements)",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Test",
+      "PI"
+    ],
+    "category": "tech_roles"
+  }
+]

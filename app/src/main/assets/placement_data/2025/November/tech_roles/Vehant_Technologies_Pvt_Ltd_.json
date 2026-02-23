@@ -1,0 +1,38 @@
+[
+  {
+    "company_name": "Vehant Technologies Pvt. Ltd.",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "www.vehant.com",
+    "stream_required": "B.E / B.Tech (CS, IT, AIML)",
+    "eligibility": [
+      "8 CGPA throughout",
+      "\u00b7 Strong coding skills in Python and C++.",
+      "\u00b7 Experience with TensorFlow, PyTorch, OpenCV, or similar frameworks.",
+      "\u00b7 Solid understanding of ML/DL algorithms, computer vision techniques,",
+      "and model evaluation.",
+      "\u00b7 Hands-on experience with data preprocessing and model deployment.",
+      "\u00b7 Strong analytical and problem-solving skills."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development : Backend",
+      "Web",
+      "Machine Learning",
+      "Computer Vision Engineer"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "January 2026 (Leaves will be provided during exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month of Internship (for both profile) : Rs 22,000 K per month Salary after 6 month of Internship (If PPO given), will be as under : \u2192 For Software Development : Backend / Web : CTC 8 LPA (PF & ESI deductions as per Govt. Norms) \u2192 For Machine Learning / Computer Vision Engineer : CTC 10 LPA (PF & ESI deductions as per Govt. Norms)",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "Technical online assessment",
+      "skype interviews"
+    ],
+    "category": "tech_roles"
+  }
+]

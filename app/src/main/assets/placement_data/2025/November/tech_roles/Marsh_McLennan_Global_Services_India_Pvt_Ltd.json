@@ -1,0 +1,29 @@
+[
+  {
+    "company_name": "Marsh & McLennan Global Services India Pvt Ltd",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "https://www.marshmclennan.com/",
+    "stream_required": "B.E / B.Tech (CS / IT) MCA",
+    "eligibility": [
+      "80% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Engineer - B2"
+    ],
+    "job_location": "Gurgaon",
+    "date_of_joining": "Jul / Aug 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 5.25 LPA fixed + 50 K joining bonus + 10% variable",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "Online Test",
+      "+ 1 Technical + 1 Functional + HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

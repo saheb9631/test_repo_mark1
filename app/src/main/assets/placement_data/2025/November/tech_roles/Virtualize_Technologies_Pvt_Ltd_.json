@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Virtualize Technologies Pvt. Ltd.",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "November 2025(3rd or 4th week)",
+    "company_website": "https://virtualizetechnologies.com/",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "7 CGPA throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Developer Executive"
+    ],
+    "job_location": "Mohali",
+    "date_of_joining": "Jan 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend for 6 Months of Internship : 15, 000/- per month Salary after 6 Months of Internship : CTC 4 LPA",
+      "bond": "Yes Note: Refund Clause: If a candidate leaves during the internship period or within 6 months post-internship, they will be required to pay a refund of \u20b950,000."
+    },
+    "selection_process_steps": [
+      "Aptitude",
+      "coding test",
+      "Interview rounds 1"
+    ],
+    "category": "tech_roles"
+  }
+]

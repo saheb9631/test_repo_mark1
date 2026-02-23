@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "VARANK Tech Pvt Ltd",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "24 th Nov 2025",
+    "company_website": "https://www.vesimplify.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT, AIML)",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Trainee Software Developer"
+    ],
+    "job_location": "Remote (from anywhere)",
+    "date_of_joining": "January\u201926 (leaves will be provided for examinations)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 20 K per month Salary after 6 months Internship : CTC 5 to 7 LPA (In hand monthly \u2013 41 K to 58 Kpm)",
+      "bond": "An employment bond of 2 years shall be effective from the date of confirmation as a full time employee post successful completion of the internship."
+    },
+    "selection_process_steps": [
+      "\u25cf Aptitude Test - Logical Reasoning",
+      "Analytical Ability (Pen Paper",
+      "Test)",
+      "\u25cf Technical Test - Programming Ability (Pen Paper Test)",
+      "\u25cf 2 Levels of Interviews",
+      "\u25cf HR Discussion"
+    ],
+    "category": "tech_roles"
+  }
+]

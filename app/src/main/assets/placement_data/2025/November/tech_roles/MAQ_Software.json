@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "MAQ Software",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "By this week",
+    "company_website": "https://maqsoftware.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "70% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Software Engineer"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "Third week of November, 2025 (leaves will be granted only for virtual examination for 3 \u2013 4 hours) - will not be provided to appear for December 2025 exams (Physical Mode)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 1 year Internship : 25 K per month Salary after 1 year Internship : CTC 6 LPA",
+      "bond": "NA"
+    },
+    "selection_process_steps": [
+      "Online test followed by remaining process"
+    ],
+    "category": "tech_roles"
+  }
+]

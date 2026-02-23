@@ -1,0 +1,51 @@
+[
+  {
+    "company_name": "Virtusa Consulting Services Pvt. Ltd.",
+    "drive_month": "June 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.virtusa.com/ linkedin https://www.linkedin.com/company/virtusa?originalsubdomain=in",
+    "stream_required": "B.E / B.Tech (CSE, IT, ECE) ( Only CU students are eligible) Note : in CSE, All specialization are eligible",
+    "eligibility": [
+      "65% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Engineer"
+    ],
+    "job_location": "Pan India",
+    "date_of_joining": "Jul\u201926",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Regular Coders : 5 LPA Power Coders: 6.5 LPA",
+      "bond": "2 years SLA - Service Agreement"
+    },
+    "selection_process_steps": [
+      "Stage 1- Initial",
+      "assessment (MCQ+Coding) + Speech X (Speaking + Listening)",
+      "To be conducted in",
+      "campus \u2013 invigilation by college",
+      "Included topics-",
+      "Analytical",
+      "Ability",
+      "Problem Solving",
+      "Technical Skills",
+      "Numerical Ability",
+      "Data Structures",
+      "Grammar",
+      "Vocabulary",
+      "Core",
+      "Java - Classes Objects",
+      "Methods",
+      "Reading Comprehension",
+      "Operating System General concepts",
+      "Writing Skills",
+      "MySQL - Basics",
+      "MySQL \u2013 Joins",
+      "Coding",
+      "ANSI SQL",
+      "SQL \u2013 Joins"
+    ],
+    "category": "tech_roles"
+  }
+]

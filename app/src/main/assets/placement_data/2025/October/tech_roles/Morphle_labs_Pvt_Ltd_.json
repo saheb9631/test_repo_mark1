@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Morphle labs Pvt. Ltd.",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "www.morphlelabs.com",
+    "stream_required": "B.Tech / M.Tech (ME) B.Tech / M.Tech (ECE, EE) B.Tech / M.Tech (CSE)",
+    "eligibility": [
+      "A minimum 7 CGPA throughout with no active backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Mechanical Design Engineer Intern",
+      "Control Systems Engineer Intern",
+      "Full Stack Engineer Intern"
+    ],
+    "job_location": "Bengaluru",
+    "date_of_joining": "January 2026 (Leaves will be provided for final exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months of Internship : Mechanical Design Engineer Intern : INR 30,000 per month Control Systems Engineer Intern : INR 30,000 per month Full Stack Engineer Intern : INR 45,000 per month Salary after 6 months of Internship (If PPO given) : Mechanical Design Engineer (PPO) : INR 8-10 LPA Control Systems Engineer (PPO) : INR 8-10 LPA Full Stack Developer (PPO) : INR 15-25 LPA",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "4-5 virtual interview rounds conducted via Google Meet"
+    ],
+    "category": "tech_roles"
+  }
+]

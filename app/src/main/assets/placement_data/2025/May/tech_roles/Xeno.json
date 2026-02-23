@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "Xeno",
+    "drive_month": "May 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.getxeno.com linkedin profile https://www.linkedin.com/company/xenohq/",
+    "stream_required": "B.E / B.Tech (CS, IT, AIML)",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Developer",
+      "Interns"
+    ],
+    "job_location": "Hybrid (Interns will be expected to come to the office 2-3 times a week, the location is Okhla Phase 3, Delhi.)",
+    "date_of_joining": "1st July 2025 - Leaves will not be provided to appear for December 2025 exams (Physical Mode)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend During 12 Month of Internship : Rs 30,000 p.m Salary After 12 month of Internship : 9 LPA fixed+ 1 Lac retention bonus after completing 1 year (One time) and ESOPs worth 2 Lac",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1) Assignment",
+      "2) Interview Rounds (3) -",
+      "Virtual",
+      "3) Offer Discussion-",
+      "Virtual"
+    ],
+    "category": "tech_roles"
+  }
+]

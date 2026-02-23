@@ -1,0 +1,36 @@
+[
+  {
+    "company_name": "HUSHH INC",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "PPT (25 Oct 2025)at 9 AM (IST) Coding Test(26 th Oct)",
+    "company_website": "https://www.hushh.ai/about",
+    "stream_required": "B.Tech (CS, IT)",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Founding Product Engineer",
+      "UI",
+      "UX Designer \u2014 Intern"
+    ],
+    "job_location": "Pune",
+    "date_of_joining": "1st November (internship)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months of Internship(WFH) : INR 16,000 per month Salary after 6 months of Internship (If PPO given) will be as under8.16-9.60 LPA : 68,000-80,000+ 2,00,000 Performance Potential+3,84,000 housing benefit /annually + Joining bonus \u00b950,000- per month for your first 3 months Other benefits \u00b7 Work mode (internship): WFH or Pune (candidate\u2019s choice). On-site interns in Pune receive fully covered housing at our company residence (\u201cHushh Villa\u201d).",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "1. Pre-Placement Talk (60\u201375 min) \u2014",
+      "company intro",
+      "product demo",
+      "roles",
+      "Q&A.",
+      "2. Assessments & Interviews \u2014",
+      "project/portfolio deep-dive \u2192 technical/system design \u2192 culture fit."
+    ],
+    "category": "tech_roles"
+  }
+]

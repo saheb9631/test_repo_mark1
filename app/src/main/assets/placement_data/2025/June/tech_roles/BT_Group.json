@@ -1,0 +1,39 @@
+[
+  {
+    "company_name": "BT Group",
+    "drive_month": "June 2025",
+    "drive_type": "ON Campus",
+    "drive_dates": "28 th \u2013 29 th July 2025",
+    "company_website": "www.bt.com",
+    "stream_required": "B.E / B.Tech (Circuit Branches)",
+    "eligibility": [
+      "\u25cf CGPA 7+ throughout with",
+      "No Backlogs",
+      "\u25cf Willing to relocate to Gurugram,"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "GET Intern 2026 +",
+      "Performance based FTE"
+    ],
+    "job_location": "Gurugram",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : Rs 40,000 per month Salary after 6 months Internship (On conversion) : CTC 6.92 LPA + 1 Lac (Joining Bonus) + 1 Lac (Retention Bonus)",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "1. Day 1:",
+      "- Pre-Placement",
+      "Talk",
+      "- Online",
+      "Technical Assessment of Students",
+      "2. Day 2:",
+      "- Interviews",
+      "for Students Who Clear the Assessment (Ops Round)"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

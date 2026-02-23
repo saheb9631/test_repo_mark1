@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Eightfold AI India Pvt Ltd.",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next week",
+    "company_website": "https://eightfold.ai/ course & streams required b.tech / m.tech (cs, it, aiml etc.)",
+    "stream_required": "",
+    "eligibility": [
+      "CGPA \u2013 8.5 and above in B.Tech ;",
+      "No current/active backlogs."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Agentic AI - Engineering Intern"
+    ],
+    "job_location": "Bangalore or Noida (Students should be open to both locations)",
+    "date_of_joining": "1st week of Jan 2026 Stipend &",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend \u2013 INR 1,50,000 per month (If gets PPO, Package would be above 70 to 80 LPA )",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "Online Test followed by Tech Interview",
+      "then",
+      "HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

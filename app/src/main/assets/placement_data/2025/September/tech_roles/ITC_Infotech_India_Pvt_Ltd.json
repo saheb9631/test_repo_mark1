@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "ITC Infotech India Pvt Ltd",
+    "drive_month": "September 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "Next week - ON Campus PPT on 15 Sep, Monday",
+    "company_website": "https://www.itcinfotech.com/ linkedin https://www.linkedin.com/company/itc-infotech",
+    "stream_required": "B.Tech - CSE / ISE / IT / ECE / EEE / EIE",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate IT Consultant"
+    ],
+    "job_location": "Bengalore, Pune,Kolkata",
+    "date_of_joining": "July 2026 onwards Shift Timing 9am to 5 pm",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC- 4.25 LPA (Fixed)",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Aptitude test",
+      "Communication Assessment",
+      "Technical Interview",
+      "Final discussion with the HR"
+    ],
+    "category": "tech_roles"
+  }
+]

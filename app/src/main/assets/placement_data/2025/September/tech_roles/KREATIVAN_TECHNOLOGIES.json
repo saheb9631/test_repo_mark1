@@ -1,0 +1,40 @@
+[
+  {
+    "company_name": "KREATIVAN TECHNOLOGIES",
+    "drive_month": "September 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "19 th Sep 2025",
+    "company_website": "https://www.kreativantech.com/",
+    "stream_required": "B.Tech (CS, IT) BCA MCA",
+    "eligibility": [
+      "Good Communication skills, Good",
+      "knowledge of Python, Java,C++"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "\u25cf Android Developer",
+      "\u25cf Web Developer",
+      "\u25cf Web Designer",
+      "\u25cf Software Tester",
+      "\u25cf SEO PPC SMM Specialist"
+    ],
+    "job_location": "IT Park Chandigarh Plot No. 14 First Floor",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months of Internship : 15 K per month -From day 1 of Internship . Salary after 6 months of Internship : CTC 3.5 \u2013 5.5 LPA (This offer is completely based on the individual's overall performance and attitude.)",
+      "bond": "The selected candidate will have to work for a minimum period of 1 year with our organization"
+    },
+    "selection_process_steps": [
+      "\u25cf Seminar about the Company's profile",
+      "their processes.",
+      "\u25cf Aptitude Test (includes 20 Questions: Quantitative",
+      "Logical",
+      "Technical",
+      "Question",
+      "Current Affairs).",
+      "\u25cf PI"
+    ],
+    "category": "tech_roles"
+  }
+]

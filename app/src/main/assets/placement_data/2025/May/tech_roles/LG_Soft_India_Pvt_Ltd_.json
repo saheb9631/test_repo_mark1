@@ -1,0 +1,39 @@
+[
+  {
+    "company_name": "LG Soft India Pvt. Ltd.",
+    "drive_month": "May 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "17 th May 2025",
+    "company_website": "https://www.lgsoftindia.com/",
+    "stream_required": "B.E. / B.Tech \u2013 CS / IT - Only CU & CEC Students",
+    "eligibility": [
+      "70% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "\u25cf During Internship : Intern",
+      "\u25cf After Internship : Research",
+      "Engineer"
+    ],
+    "job_location": "Embassy Tech Square,Cessna Business Park Internal Rd, Kaverappa Layout, Kadubeesanahalli, Marathahalli, Bengaluru, Karnataka 560103",
+    "date_of_joining": "Jun End or July\u201925 (1st week)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during internship : INR 30000 per month Salary after Internship (If PPO Offered) : INR 7.5 LPA Note : Internship duration may vary from 6 - 10 months based on individual performance & periodic evaluation results.",
+      "bond": "No Bond"
+    },
+    "selection_process_steps": [
+      "MCQ / Subjective Assessment (L1)",
+      ": 17 th May\u201925",
+      "Coding Assessment (L2)",
+      ": 19 th May\u201925",
+      "Technical",
+      "Interview",
+      ": 20 th May\u201925 (Tentative)",
+      "HR",
+      "Interview",
+      "TBD"
+    ],
+    "category": "tech_roles"
+  }
+]

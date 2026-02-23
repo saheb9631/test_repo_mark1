@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Sprinto Technology Private Limited",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next week",
+    "company_website": "https://sprinto.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Customer Experience Engineering Track"
+    ],
+    "job_location": "Work from Home",
+    "date_of_joining": "Jan-26 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month Internship : Rs 22,000 per month Salary after 6 month Internship : CTC 8 - 12 LPA (All fixed)",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "\u25cf PPT",
+      "\u25cf Online Test",
+      "\u25cf Technical interview",
+      "\u25cf PI"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

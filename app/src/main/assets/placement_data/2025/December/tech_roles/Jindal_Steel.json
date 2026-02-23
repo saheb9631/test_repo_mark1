@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Jindal Steel",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Assessment : 28 th Dec",
+    "company_website": "https://www.jindalstainless.com/careers/",
+    "stream_required": "B.E / B.Tech (Ceramic, Design & Engineering, Electrical, Environment, Industrial, Instrumentation, Information Technology, Mechanical, Metallurgy, Metrology, Mineral, Mining, Production, Robotics/Automation/Mechatronics, Safety, Supply Chain)",
+    "eligibility": [
+      "70% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Graduate Engineer Trainee"
+    ],
+    "job_location": "Pan India",
+    "date_of_joining": "Will intimate later",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC INR 10 LPA + INR 2 L joining bonus \u2022 Stipend: INR 40,000/month",
+      "bond": "Will intimate later"
+    },
+    "selection_process_steps": [
+      "Round 1: Technical + Aptitude Assessment",
+      "Round 2: Psychometric Assessment",
+      "Round 3: Interview"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

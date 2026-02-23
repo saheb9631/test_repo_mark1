@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Priority IDC Private Limited",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Mid December",
+    "company_website": "https://prth.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "80% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Engineer \u2013 Application Solutions"
+    ],
+    "job_location": "Chandigarh",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u00b7 Stipend during 6 months of Internship : Rs 21,100 per month (inclusive of ESIC benefits) \u00b7 Salary after Internship (Post-Conversion Full-Time) : CTC 6 \u2013 8 LPA (based on performance and final evaluation)",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "1. Pre-Placement Talk",
+      "2. Online Aptitude Test",
+      "3. Two Technical Interviews",
+      "1 HR Round Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

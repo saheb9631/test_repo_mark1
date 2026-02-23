@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "KPMG India",
+    "drive_month": "August 2025",
+    "drive_type": "",
+    "drive_dates": "",
+    "company_website": "https://kpmg.com/in",
+    "stream_required": "B.E / B.Tech ( Civil ) B.E / B.Tech ( All )",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "GRCS Real Estate",
+      "Digital Trust"
+    ],
+    "job_location": "Gurgaon, Bangalore, Mumbai Gurgaon, Kolkata, Mumbai, Bangalore, Pune, Hyderabad, Chennai",
+    "date_of_joining": "Jan\u201926",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "for GRCS Real Estate : \u2192 Stipend during 6 months Internship : Rs 20,000/ per month \u2192 Salary after 6 months Internship (On confirmation) : CTC 6 LPA Fixed + Variable + Other benefits for Digital Trust : \u2192 Stipend during 6 months Internship : Rs 20,000/ per month \u2192 Salary after 6 months Internship (On confirmation) : CTC 5 LPA Fixed + Variable + Other benefits",
+      "bond": "Yes (will be intimated during PPT)"
+    },
+    "selection_process_steps": [
+      "\u2022 Online Assessment Test login window",
+      "\u2022 Pre-Placement Talk",
+      "\u2022 Group Discussion followed by Technical Interviews + HR Discussion"
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "company_name": "MathCo (TheMathCompany Pvt Ltd)",
+    "drive_month": "August 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "\u25cf Online Test \u2013 5 th August 2025 \u25cf ON Campus - 18 th August 2025",
+    "company_website": "https://mathco.com/",
+    "stream_required": "B.Tech (CS / IT) MCA M.Sc (Mathematics, Statistics)",
+    "eligibility": [
+      "65% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Trainee Analyst"
+    ],
+    "job_location": "Bengaluru",
+    "date_of_joining": "After final examination (Jun / July 2026)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Remuneration: Year 1 : CTC 5.5 LPA (4.5 LPA Fixed + 1 Lac Bonus) Year 2 : CTC 8 LPA (6 LPA Fixed + 2 Lac Bonus) Year 3 : CTC 12.5 LPA (8.5 LPA + 4 Lac Bonus) Note : The annual bonus each year and the fixed component in Year 3 are performance-based.",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "5 th Aug\u201925",
+      "Round 1: Online",
+      "Assessment Test (Logical Reasoning",
+      "Quantitative Aptitude",
+      "Pseudocode)",
+      "Round 2: Online Communication Test",
+      "18 th Aug\u201925",
+      "Round 3: Pre-placement talk followed by Technical",
+      "Fitment",
+      "HR Rounds (on campus) followed by spot offers."
+    ],
+    "category": "tech_roles"
+  }
+]

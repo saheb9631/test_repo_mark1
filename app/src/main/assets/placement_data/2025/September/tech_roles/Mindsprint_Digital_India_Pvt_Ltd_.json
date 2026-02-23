@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Mindsprint Digital India Pvt Ltd.",
+    "drive_month": "September 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.mindsprint.com/",
+    "stream_required": "B.E / B.Tech (CSE / IT)",
+    "eligibility": [
+      "7.5 CGPA throughout with no standing arrears"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Junior Engineer"
+    ],
+    "job_location": "Chennai or Bangalore (As per business requirements)",
+    "date_of_joining": "June / July 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "INR 5.2 LPA+ Insurance benefits+ relocation assistance",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "\u25cf PPT",
+      "\u25cf Technical Assessment",
+      "\u25cf Interviews"
+    ],
+    "category": "tech_roles"
+  }
+]

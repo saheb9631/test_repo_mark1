@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Emerson (National Instruments is now a part of Emerson)",
+    "drive_month": "February 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "5 th March 2025 @11:00 AM",
+    "company_website": "http://ni.com/ linkedin profile https://www.linkedin.com/company/niglobal/",
+    "stream_required": "B.E / B.Tech (CSE / Information Science / Electronics & Electrical) M.E / M.Tech (Electronics)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineering Intern"
+    ],
+    "job_location": "Bangalore",
+    "date_of_joining": "Jul 2025 to Dec 2025, we might extend the internship until Jun 2026 based on intern performance & business needs.",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u25cf Stipend during 6 months (July\u201925 to Dec\u201925) Internship : 45 K per month Note : Company might extend the internship until June 2026 based on interns performance. \u25cf Salary after Internship (If PPO given), will be as under : \u2192 For B.E / B.Tech : CTC 14.66 LPA \u2192 For M.E / M.Tech : CTC 15.38 LPA Note : *Full Time opportunities are based on performance & business needs",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "Mode: Coding test (C#/C++/C & Python are",
+      "allowed no Java)",
+      "Students must take the test in collages premises",
+      "invigilated by university"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

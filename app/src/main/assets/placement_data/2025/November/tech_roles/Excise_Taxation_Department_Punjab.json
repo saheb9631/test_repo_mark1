@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "Excise & Taxation Department, Punjab",
+    "drive_month": "November 2025",
+    "drive_type": "OFF Campus",
+    "drive_dates": "Will be conducted next week",
+    "company_website": "https://taxation.punjab.gov.in/",
+    "stream_required": "B.Tech / M.Tech / M.Sc / MCA (CS/IT/Electronics)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2025",
+    "roles_offered": [
+      ".NET Developer"
+    ],
+    "job_location": "Chandigarh / Mohali.",
+    "date_of_joining": "ASAP",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 55,000 per month",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "Technical Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

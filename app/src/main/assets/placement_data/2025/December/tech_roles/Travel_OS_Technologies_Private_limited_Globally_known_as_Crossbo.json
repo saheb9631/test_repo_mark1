@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Travel OS Technologies Private limited (Globally known as Crossbo)",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "https://www.crossbo.com/",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development Engineer and Data Science"
+    ],
+    "job_location": "Remote",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u2022 Stipend during 6 months Internship : Rs 25,000 per month \u2022 Stipend during 6 months Internship : CTC 10 LPA (9 LPA Fixed + 1 lac variable)",
+      "bond": "NA"
+    },
+    "selection_process_steps": [
+      "\u25cf PPT",
+      "\u25cf Online Test",
+      "\u25cf Technical interview",
+      "\u25cf PI"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

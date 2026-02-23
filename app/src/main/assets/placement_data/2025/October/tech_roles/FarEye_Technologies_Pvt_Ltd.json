@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "FarEye Technologies Pvt Ltd",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Next Week",
+    "company_website": "www.fareye.com linkedin: https://www.linkedin.com/company/fareye/",
+    "stream_required": "B.E / B.Tech (CSE, IT, ECE)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development Engineer"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "January 2026 Onwards (Leaves will be given for the exam)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 25 K per month Salary after 6 months Internship (if PPO given) : CTC 7,00,000 per annum",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1. Coding Assessment",
+      "2. Two rounds of Technical Interviews",
+      "3. Culture Fitment Round"
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "MarketsandMarkets Research Pvt. Ltd.",
+    "drive_month": "September 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "www.marketsandmarkets.com",
+    "stream_required": "B.E / B.Tech (CS , IT)",
+    "eligibility": [
+      "Projects experience in React or Python"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Product Intern"
+    ],
+    "job_location": "Pune, Bangalore",
+    "date_of_joining": "Immediately after selection (Leaves will be provided for exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 1 year Internship : 30 K per month Salary after 1 year Internship (on confirmation) : CTC 8 LPA",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "2-3 Technical interviews"
+    ],
+    "category": "tech_roles"
+  }
+]

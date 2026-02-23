@@ -1,0 +1,42 @@
+[
+  {
+    "company_name": "GrowthJockey Pvt. Ltd.",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "November End",
+    "company_website": "https://www.growthjockey.com/who-we-are",
+    "stream_required": "B.E / B.Tech (CSE) MBA (Marketing) Bachelor\u2019s degree in Business, Economics, Statistics, or related field. Bachelor\u2019s degree (Engineering, Management, Design, or related fields). Bachelor\u2019s degree in Design, Computer Science, or related field (or equivalent experience/portfolio).",
+    "eligibility": [
+      "6.5 CGPA"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Development Engineer",
+      "Digital Specialist",
+      "Venture Architect",
+      "Product Associate",
+      "UI",
+      "UX Designer"
+    ],
+    "job_location": "Gurugram",
+    "date_of_joining": "Jan 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship (for all profile) : 35 K per month Salary after 6 months Internship will be as under : \u2192 for Technical profile : CTC 7 LPA (breakup attached) \u2192 for Non Technical profile : CTC 10 LPA (breakup attached)",
+      "bond": "NA"
+    },
+    "selection_process_steps": [
+      "\u25cf for Technical",
+      "profile : Resume shortlisting",
+      "Technical",
+      "Assessment",
+      "Technical Interview",
+      "\u25cf for Non-Technical profile : Resume",
+      "shortlisting",
+      "Introductory",
+      "Videos",
+      "Cultural Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

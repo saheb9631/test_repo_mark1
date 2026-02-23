@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Nearby Technologies Private Limited (Pay Nearby)",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be Intimated later",
+    "company_website": "https://www.paynearby.in/",
+    "stream_required": "B.E / B.Tech (CSE, IT) M.E / M.Tech (CSE, IT)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Engineer"
+    ],
+    "job_location": "\u25cf During Internship : Remote \u25cf After Internship : Mumbai, Chennai (Mostly Remote)",
+    "date_of_joining": "January 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 40,000/- pm Salary after 6 months Internship (If PPO given) : CTC 7.3 LPA ( 6.5 LPA fixed + 65 K Variable + Insurance & Gratuity benefits)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Hacker Rank Test",
+      "1-2 technical interviews & HR round"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

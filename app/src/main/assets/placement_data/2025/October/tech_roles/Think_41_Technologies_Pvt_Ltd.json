@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Think 41 Technologies Pvt. Ltd",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.think41.com/ linkedin profile https://www.linkedin.com/company/think41/people/",
+    "stream_required": "B.E / B.Tech (CS, IT, ECE, EE, EEE)",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Full Stack Engineer"
+    ],
+    "job_location": "Bangalore",
+    "date_of_joining": "Jan\u201926 (Leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 25,000/- per month Salary after 6 months Internship (If PPO given) : CTC 5.5 LPA - 7 LPA (PF & ESI deductions)",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "\u25cf PPT",
+      "\u25cf Technical Interview 1&2",
+      "\u25cf PI"
+    ],
+    "category": "tech_roles"
+  }
+]

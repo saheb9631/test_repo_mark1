@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Robosoft Solution Pvt Ltd",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "By November end.",
+    "company_website": "https://www.robo-soft.com/",
+    "stream_required": "B.E / B.Tech (CSE, AI, ML, Data Science, or related disciplines) M.E / M.Tech (CSE, AI, ML, Data Science, or related disciplines) M.Sc (Computer Science, AI, ML, Data Science, or related disciplines)",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "AI & ML Coders with CTRM Expertise"
+    ],
+    "job_location": "Mumbai",
+    "date_of_joining": "Jan \u201926 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 6 - 7 LPA from Day one Note : PF and other deduction as per Govt. Norms + 7500k will be deducted every month for 2 yr as the training cost",
+      "bond": "2 yr training in case they leave early they have to pay the remaining amount."
+    },
+    "selection_process_steps": [
+      "Screening of CV",
+      "GD",
+      "Assessment",
+      "HR"
+    ],
+    "category": "tech_roles"
+  }
+]

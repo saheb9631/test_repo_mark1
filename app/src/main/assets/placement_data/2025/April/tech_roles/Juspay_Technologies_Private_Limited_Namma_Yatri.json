@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "Juspay Technologies Private Limited (Namma Yatri)",
+    "drive_month": "April 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://nammayatri.in/",
+    "stream_required": "B.E / B.Tech (All) \u2014 Only CU & CEC Students",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Data / Product Engineer",
+      "Engineer for Frontend (SDE) \u2014 Intern",
+      "Engineer for Backend (SDE) \u2014 Intern",
+      "Product Designer \u2014 Intern"
+    ],
+    "job_location": "Bangalore / Kolkata / Mumbai",
+    "date_of_joining": "Immediately",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "Two rounds of online assessments",
+      "Hackathon / Learnathon (1 day event)",
+      "Final technical and cultural interview"
+    ],
+    "category": "tech_roles"
+  }
+]

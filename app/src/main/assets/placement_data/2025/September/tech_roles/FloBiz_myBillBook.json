@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "FloBiz / myBillBook",
+    "drive_month": "September 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://flobiz.in/ https://mybillbook.in/",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Data Analyst Intern"
+    ],
+    "job_location": "Remote",
+    "date_of_joining": "Immediate - Leaves will not be provided to appear for December 2025 exams (Physical Mode)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : Rs 30,000 Per month Salary after 6 months Internship (On Confirmation) : CTC 12 - 18 LPA",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "Online Test",
+      "Technical Interview",
+      "PI"
+    ],
+    "category": "tech_roles"
+  }
+]

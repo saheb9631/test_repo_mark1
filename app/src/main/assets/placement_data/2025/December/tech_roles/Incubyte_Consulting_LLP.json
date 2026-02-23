@@ -1,0 +1,33 @@
+[
+  {
+    "company_name": "Incubyte Consulting LLP",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "12 th December : PPT: 6 PM Online Test : 13 th December Window open for 24 hours",
+    "company_website": "https://www.incubyte.co/",
+    "stream_required": "B.E / B.Tech (CS, IT, ECE) MCA",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineers"
+    ],
+    "job_location": "Remote (1 st month training will be in Pune company will take care of expenses )",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months : 25 K per month Salary after 6 months : CTC 6 - 8 LPA fixed Employee Benefits : \u2022 Home Office Funds\u2013 35k one-time \u2022 Variable Pay upto 2 LPA \u2022 Insurance medical \u2022 Term insurance \u2022 Unlimited funds for learning \u2022 Peer bonus program \u2022 Free subscription of O'Reilly worth 45k \u2022 expert trainings with international trainers \u2022 Software tooling",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "PPT : Microsoft Virtual Events Powered",
+      "by Teams",
+      "PPT Link : Link",
+      "Online test",
+      "Technical Interview"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

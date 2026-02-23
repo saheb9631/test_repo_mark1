@@ -1,0 +1,35 @@
+[
+  {
+    "company_name": "EazyDiner Pvt. Ltd.",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "30 th -Oct and 31 st -Oct-25",
+    "company_website": "www.eazydiner.com",
+    "stream_required": "B.E / B.Tech (CS, IT) BCA MCA",
+    "eligibility": [
+      "Minimum",
+      "CGPA: 7.0 and above"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Frontend Development",
+      "Backend Development",
+      "iOS Development"
+    ],
+    "job_location": "Gurgaon office",
+    "date_of_joining": "January 2026 (Leaves will be provided for final exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months training : Rs 25,000 per month Salary after 6 months of training : CTC 6,00,000 PA +1 LPA ESOP Detailed breakup attached herewith",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "Round 1: Screening",
+      "Test",
+      "Round 2: Technical",
+      "Round 3: Technical",
+      "Round 4: HR"
+    ],
+    "category": "tech_roles"
+  }
+]

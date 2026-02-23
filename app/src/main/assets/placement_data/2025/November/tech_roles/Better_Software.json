@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Better Software",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Will be intimated Later",
+    "company_website": "https://www.bettrsw.com/",
+    "stream_required": "B.Tech (CS, IT) MCA",
+    "eligibility": [
+      "6.0 CGPA throughout with No active backlog"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Software Engineer"
+    ],
+    "job_location": "Remote",
+    "date_of_joining": "Jan 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 month Internship : 10 K per month Salary after 6 month Internship : CTC 5 LPA",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "a. First round - Technical Assessment",
+      "b. Second round - Technical Interview",
+      "c. Third round - HR interview"
+    ],
+    "category": "tech_roles"
+  }
+]

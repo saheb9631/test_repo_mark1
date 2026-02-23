@@ -1,0 +1,38 @@
+[
+  {
+    "company_name": "Trilogy Innovations (formerly CodeNation)",
+    "drive_month": "May 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "May' 25 end",
+    "company_website": "https://innovations.trilogy.com/about-trilogy-innovations/",
+    "stream_required": "B.Tech / M.Tech / BSc / MSc / BCA /MCA",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "During Internship",
+      ": SDE Intern",
+      "After Internship : Software Development Engineer",
+      "SDE Intern"
+    ],
+    "job_location": "Remote Tentative",
+    "date_of_joining": "January 2026 Tentative Date: 11th May 2026 Duration of internship: 2 months",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 75 K per month Salary after 6 months Internship : 30 LPA + 2.5 Lakhs Annual Targeted Bonus Note : PPO will be based on performance Stipend : 75 K per month Note : PPO will be based on performance Salary if PPO given : 30 LPA + 2.5 Lakhs Annual Targeted Bonus",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "\u2022 120 minutes technical test on an",
+      "online platform",
+      "\u2022 Shortlisted students from above take a 15-minute CCAT (Cognitive Criteria",
+      "Aptitude Test)",
+      "\u2022 Further shortlisted students go through 1-4 rounds of virtual technical",
+      "interviews",
+      "\u2022 Final step is a 15-minute PCCAT (Proctored Cognitive Criteria Aptitude",
+      "Test)"
+    ],
+    "category": "tech_roles"
+  }
+]

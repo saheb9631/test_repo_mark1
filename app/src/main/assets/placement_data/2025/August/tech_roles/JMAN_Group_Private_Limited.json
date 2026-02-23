@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "JMAN Group Private Limited",
+    "drive_month": "August 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "\u25cf Online Test : Monday, 1 September, 2025 \u25cf Interview : Tuesday, 2 September, 2025",
+    "company_website": "www.jmangroup.com linkedin https://www.linkedin.com/company/jman-group/?originalsubdomain=in",
+    "stream_required": "B.E / B.Tech (CSE, IT, AIML, EEE, ECE) MCA",
+    "eligibility": [
+      "75% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineer"
+    ],
+    "job_location": "Chennai",
+    "date_of_joining": "January 2026 onwards",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC INR 6.5 LPA (Inclusive PLI) Note : Additionally, we provide them a Loyalty bonus of Rs. 2 lakhs as a single payout post successful completion of 30 months in the organization.",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "\u25cf Two rounds of Online test (L1 - Technical",
+      "& Aptitude Test",
+      "L2-Coding Assessment)",
+      "\u25cf Two rounds of Technical interview followed",
+      "by HR discussion."
+    ],
+    "category": "tech_roles"
+  }
+]

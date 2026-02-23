@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "Gemini Solutions Private Limited",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "2 nd Week of January 2026",
+    "company_website": "www.geminisolutions.com",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Developer Trainee"
+    ],
+    "job_location": "Gurgaon, Panchkula",
+    "date_of_joining": "January 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : INR 21,000 pm + Medical insurance of 2.5 LPA + Refreshments Salary after 6 months Internship (Post confirmation) : CTC 6 \u2013 7 LPA (depending on their performance in the training period)",
+      "bond": "2 year bond period (applicable from day one). 2 L Penalty / 3 months notice"
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Coding Test",
+      "GD",
+      "PI"
+    ],
+    "category": "tech_roles"
+  }
+]

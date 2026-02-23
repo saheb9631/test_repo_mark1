@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Credgenics",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "This week",
+    "company_website": "https://www.credgenics.com/",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Manual QA Intern"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "2 nd Jan 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend - 20k for 6 months CTC- 4 LPA",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "Online assessment",
+      "technical round",
+      "PI"
+    ],
+    "category": "tech_roles"
+  }
+]

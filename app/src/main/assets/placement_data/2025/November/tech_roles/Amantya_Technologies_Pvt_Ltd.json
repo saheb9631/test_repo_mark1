@@ -1,0 +1,43 @@
+[
+  {
+    "company_name": "Amantya Technologies Pvt. Ltd",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "December (2 nd Week)",
+    "company_website": "https://www.amantyatech.com linkedin https://www.linkedin.com/company/amantyatech/posts/?feedview=all",
+    "stream_required": "B.E / B.Tech (CS, IT, ECE)",
+    "eligibility": [
+      "\u25cf 7 CGPA throughout with no active",
+      "backlog",
+      "\u25cf Strong knowledge of Java, C, or Python",
+      "\u25cf Experience with software development",
+      "methodologies and practices Understanding of databases, data structures, and",
+      "algorithms",
+      "\u25cf Ability to write clean, maintainable",
+      "code",
+      "\u25cf Excellent problem-solving skills",
+      "\u25cf Strong communication skills",
+      "\u25cf Ability to work independently and as",
+      "part of a team Bachelor's degree in Computer Science, Software Engineering,",
+      "or related field"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "C++ Developer or Java Developer"
+    ],
+    "job_location": "Gurgaon",
+    "date_of_joining": "Jan\u201925 (Leaves will be provided during exams )",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 20,000 per month Salary after 6 months Internship : CTC 4 LPA (only deductions of PF and Gratuity as per Norms)",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Online Assessment",
+      "Tech PI (1& 2) Round",
+      "HR Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

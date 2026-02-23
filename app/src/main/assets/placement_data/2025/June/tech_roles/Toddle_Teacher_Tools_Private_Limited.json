@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Toddle [Teacher Tools Private Limited]",
+    "drive_month": "June 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Tentatively from 27 th June to 4 th May'25 / 4 th to 11 th June'25. (Would prefer the first slot)",
+    "company_website": "www.toddleapp.com",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "7 CGPA throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Intern - Frontend",
+      "Intern - Backend",
+      "Intern - Mobile (React Native)"
+    ],
+    "job_location": "Bangalore (WFH until further notice)",
+    "date_of_joining": "Jul'25 Leaves will not be provided to appear for December 2025 exams (Physical Mode)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u2022 Stipend during 1 year of Internship : 50 K per month \u2022 Salary after 1 year of Internship : CTC 12 LPA",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "Coding test + 1 Intro",
+      "Call (30 min Google meet) + Technical interview (1.5 hrs Google meet) +",
+      "1 HM Round (30 min Google meet)"
+    ],
+    "category": "tech_roles"
+  }
+]

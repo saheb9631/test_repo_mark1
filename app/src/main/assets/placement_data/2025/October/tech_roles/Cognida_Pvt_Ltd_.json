@@ -1,0 +1,35 @@
+[
+  {
+    "company_name": "Cognida Pvt. Ltd.",
+    "drive_month": "October 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.cognida.ai/",
+    "stream_required": "B.E / B. Tech (CSE) MCA",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Developer"
+    ],
+    "job_location": "Hyderabad",
+    "date_of_joining": "December - January (After examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 4 -6 months of Internship : 25 K per month Salary after Internship (If PPO given) : CTC 7 LPA Note : Students who excel in performance during internship will be absorbed into full time employment with a compensation of 7 LPA (Statutory deductions like P/f and Tax)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1. Paper",
+      "based test : Test involves Aptitude",
+      "System Design",
+      "Math problems",
+      "2. Group",
+      "discussions:",
+      "3. Interviews",
+      ": Technical interviews followed by HR interviews"
+    ],
+    "category": "tech_roles"
+  }
+]

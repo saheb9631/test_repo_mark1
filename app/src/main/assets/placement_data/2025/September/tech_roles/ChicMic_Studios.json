@@ -1,0 +1,31 @@
+[
+  {
+    "company_name": "ChicMic Studios",
+    "drive_month": "September 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "8 th October 2025",
+    "company_website": "www.chicmicstudios.in",
+    "stream_required": "B.E / B.Tech (CSE / IT) MCA",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Associate Software Developer"
+    ],
+    "job_location": "Mohali",
+    "date_of_joining": "Tentative in January 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 10 K per month Salary after 6 months Internship : CTC 6 LPA (Take home Rs. 49,795 pm)",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "1) Technical Paper MCQ)-30 min",
+      "2) Aptitude Paper (MCQ)-30 min",
+      "3) Two Technical Interview",
+      "4) HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

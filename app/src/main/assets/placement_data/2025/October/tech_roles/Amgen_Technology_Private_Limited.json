@@ -1,0 +1,36 @@
+[
+  {
+    "company_name": "Amgen Technology Private Limited",
+    "drive_month": "October 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "15 th October 2025",
+    "company_website": "www.amgen.com",
+    "stream_required": "B.E. / B.Tech (CSE) B.E. / B.Tech (CSE) B.E. / B.Tech (CSE - Artificial Intelligence) in Collaboration with MS) B.E. / B.Tech (CSE with Specialization in Full Stack Development) B.E. / B.Tech (CSE - Computer Science and Business Systems) (In association with TCS) B.E. / B.Tech (CSE - Data Science) (In association with IBM) B.E. / B.Tech (CSE - Cloud Computing) (In association with IBM) B.E. / B.Tech (CSE - Cyber Security), (In association with IBM) B.E. / B.Tech (CSE with Specialization in Artificial Intelligence and Machine Learning) In association with IBM B.E. / B.Tech (CSE with Specialization in Internet of Things and Artificial Intelligence) (In association with IBM)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Site Reliability Engineer",
+      "Associate Data Engineer",
+      "Associate Data Scientist",
+      "Associate Product Manager",
+      "Associate SAP Analyst",
+      "Associate Software Engineer",
+      "Cloud Engineer",
+      "Data Analytics",
+      "Data Platform Engineer"
+    ],
+    "job_location": "Hyderabad",
+    "date_of_joining": "January 2026 (Jan to June internship followed by conversion in July 2026)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : Rs 85000 per month Salary after 6 months Internship (If PPO given) : CTC 10 \u2013 15 LPA",
+      "bond": "None"
+    },
+    "selection_process_steps": [
+      "Hackerrank + 2 rounds of technical interviewer"
+    ],
+    "category": "tech_roles"
+  }
+]

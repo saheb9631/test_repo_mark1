@@ -1,0 +1,37 @@
+[
+  {
+    "company_name": "Celebal Technologies",
+    "drive_month": "August 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "PPT : 21 st Aug\u201925 at 5:00 pm",
+    "company_website": "https://www.celebaltech.com/",
+    "stream_required": "B.E / B.Tech (CSE / IT / ECE) MCA",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Junior",
+      "Associate ( Data Engineer) (SQL",
+      "Python",
+      "Any Cloud",
+      "(Azure*",
+      "AWS*",
+      "GCP)"
+    ],
+    "job_location": "Jaipur",
+    "date_of_joining": "Oct 2025 or Jan 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 8 months of Internship will be as under : Stipend during first 4 months internship : 10 K per month Stipend for Next 4 months Traineeship : 18 K per month Salary after 8 months of Internship ( Data Engineer) : CTC 7 LPA (6 LPA Fixed + 1 lac PLI)",
+      "bond": "Service agreement for 24 months"
+    },
+    "selection_process_steps": [
+      "\u2022 Pre-Placement Talk",
+      "\u2022 Assessment in Lab",
+      "\u2022 Interview Rounds (2 rounds)",
+      "\u2022 HR Round"
+    ],
+    "category": "tech_roles"
+  }
+]

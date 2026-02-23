@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "CSG Systems (CSG International)",
+    "drive_month": "August 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "\u25cf Pre placement Talk : 5 th Sep 25 \u25cf Assessment Test : 6 th Sep 25 \u25cf Interview : 11 th Sep 25",
+    "company_website": "https://www.csgi.com/ linkedin profile https://www.linkedin.com/company/csg-/",
+    "stream_required": "B.E / B.Tech (CS, IT or related branches)",
+    "eligibility": [
+      "60% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "\u25cf Software Development Engineer Grad",
+      "\u25cf Test Engineer Grad",
+      "\u25cf Operational Engineer Grad"
+    ],
+    "job_location": "Remote / Bangalore",
+    "date_of_joining": "January / February 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "\u25cf Stipend during 6 months Internship : 25 K per month \u25cf Salary after 6 months Internship will be as under : \u2192 for Software Development Engineer Grad : CTC 07.8 LPA \u2192 for Test Engineer Grad : CTC 07.5 LPA \u2192 for Operational Engineer Grad : CTC 07 LPA",
+      "bond": "No"
+    },
+    "selection_process_steps": [
+      "\u25cf Pre Placement Talk",
+      "\u25cf Assessment Test",
+      "\u25cf Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

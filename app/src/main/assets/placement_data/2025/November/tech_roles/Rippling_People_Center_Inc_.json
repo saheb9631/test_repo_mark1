@@ -1,0 +1,29 @@
+[
+  {
+    "company_name": "Rippling People Center, Inc.",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "Tentative 29 th Nov",
+    "company_website": "https://www.rippling.com/",
+    "stream_required": "B.Tech (CS, IT)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "SDE1"
+    ],
+    "job_location": "Bengaluru",
+    "date_of_joining": "15 th Dec\u201925 Internship Duration 6 Months",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 1 lac per month Salary after 6 months Internship (If PPO given) : CTC 44 LPA (Based on the performance FTE would be given) Other benefits Work from Office : Monday, Tuesday, Thursday Relocation assistance will be provided Food, snacks & parties on the house",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "HackRank Test",
+      "Technical round followed by PI"
+    ],
+    "category": "tech_roles"
+  }
+]

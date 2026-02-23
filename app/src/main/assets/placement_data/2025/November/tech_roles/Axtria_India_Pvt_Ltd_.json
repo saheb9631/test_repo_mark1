@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Axtria India Pvt Ltd.",
+    "drive_month": "November 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "7 th Nov 2025",
+    "company_website": "https://www.axtria.com/",
+    "stream_required": "B.E / B.Tech (CS, IT)",
+    "eligibility": [
+      "80% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Analyst Trainee"
+    ],
+    "job_location": "Noida, Gurgaon, Pune, Hyderabad , Bangalore",
+    "date_of_joining": "June / July after final exams",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 24 Lac for 3 years \u2192 1 st Year : 5 LPA + 0.5 Lac (Anniversary pay-out) \u2192 2 nd Year : 6 LPA + 2 Lac (Anniversary pay-out) \u2192 3 rd Year : 8 LPA + 2.5 Lac (Anniversary pay-out)",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "PPT",
+      "Resume Short listing",
+      "Online Assessment",
+      "Technical PI",
+      "HR Interview"
+    ],
+    "category": "tech_roles"
+  }
+]

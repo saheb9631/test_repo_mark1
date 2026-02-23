@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "MSG Global Solutions India Pvt Ltd",
+    "drive_month": "December 2025",
+    "drive_type": "Depending on Number of students",
+    "drive_dates": "19 th Dec 2025",
+    "company_website": "www.msg-global.com",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineering"
+    ],
+    "job_location": "Bangalore / Hyderabad",
+    "date_of_joining": "1 st Jan 2026 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Internship : 22 K per month Salary after 6 months Internship : CTC 6 LPA + 3 Lakh (PF Deduction )",
+      "bond": "NA"
+    },
+    "selection_process_steps": [
+      "Online Test \u2013 2 Technical Rounds - HR"
+    ],
+    "category": "tech_roles"
+  }
+]

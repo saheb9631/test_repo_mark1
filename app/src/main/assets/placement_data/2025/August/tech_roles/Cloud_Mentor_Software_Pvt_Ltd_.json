@@ -1,0 +1,34 @@
+[
+  {
+    "company_name": "Cloud Mentor Software Pvt. Ltd.",
+    "drive_month": "August 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "September (First Week)",
+    "company_website": "https://www.cmentor.com/who-we-are/",
+    "stream_required": "B.E / B.Tech (CS / IT) MCA",
+    "eligibility": [
+      "60% throughout, no backlogs"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Salesforce Developers",
+      "Quality Analyst",
+      "Data Analysts"
+    ],
+    "job_location": "Jaipur (India)",
+    "date_of_joining": "Immediate (7 days Leaves will be provided for the examinations)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 6 months Training : 15 K per month Remuneration during 4 months Probation (after 6 months Training) : 25 K per month Salary after 4 months Probation : CTC 6.80 LPA ( In hand Rs 53,067 pm) PARTICULARS MONTHLY ANNUAL BASIC 28333 339996 HRA 14170 170040 LTA 2830 33960 BYOD ALLOWANCE 2500 30000 SPECIAL ALLOWANCE 7034 84404 TOTAL GROSS SALARY 54867 658400 PF EMPLOYER CONTRIBUTION (12% OF CEILING) 1800 21600 TOTAL CTC 56667 680000 PF EMPLOYEE CONTRIBUTION (12%) 1800 21600 NET TAKE HOME SALARY 53067 636800 SUBJECT TO INCOME TAX DEDUCTION IF ANY",
+      "bond": "18 month bond (In case you leave / resign / abandon the services before the mentioned period the amount of Rs 100000/- (Rupees One Lakh Only)"
+    },
+    "selection_process_steps": [
+      "Step 1: Aptitude Test & Programming Test",
+      "Step 2: Technical Round",
+      "Step 3: Managerial Round",
+      "Step 4: Culture Fit Round",
+      "All"
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Navikenz Inc.",
+    "drive_month": "November 2025",
+    "drive_type": "On-Campus",
+    "drive_dates": "November 2025",
+    "company_website": "https://navikenz.com/",
+    "stream_required": "B.E / B.Tech (Computer Science and Computer Engineering with orientation on Digital Technologies, Data Engineering, Data Analytics, Artificial Intelligence & Machine Learning and Cloud Engineering)",
+    "eligibility": [
+      "75% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Software Engineer"
+    ],
+    "job_location": "Software Engineer",
+    "date_of_joining": "March 2026 (As interns on March, 2026 and full time employees post completion of the B. Tech course (Tentative July'26)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 5 months Internship : 25 K per month Salary after 5 months Internship : CTC 6 LPA + 1.00 Lakh Bonus as software engineers",
+      "bond": "Yes, 2 Years (Including Internship). Penalty on Non-compliance of Bond Rs 2.00 Lakh"
+    },
+    "selection_process_steps": [
+      "PPT Session",
+      "Group Discussion",
+      "Analytical / coding test",
+      "followed by",
+      "personal interview"
+    ],
+    "category": "tech_roles"
+  }
+]

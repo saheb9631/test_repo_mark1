@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Queue Buster (DPD Technologies Pvt Ltd)",
+    "drive_month": "December 2025",
+    "drive_type": "Virtual",
+    "drive_dates": "December (forth week)",
+    "company_website": "https://queuebuster.co/",
+    "stream_required": "\u25cf B.E / B.Tech (CSE, IT) \u25cf BCA, B.Sc (CS) \u25cf MCA",
+    "eligibility": [
+      "Nil"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Technical Support Engineer"
+    ],
+    "job_location": "Noida Sector 68 (Onsite)",
+    "date_of_joining": "January 2026 (Exam leaves will be Provided)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 3 LPA (Rs 3600 PF deduction) from day one",
+      "bond": "Nil"
+    },
+    "selection_process_steps": [
+      "GD",
+      "PI"
+      
+    ],
+    "category": "tech_roles"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "company_name": "CData Software India Private Limited",
+    "drive_month": "May 2025",
+    "drive_type": "ON Campus",
+    "drive_dates": "June 2025",
+    "company_website": "https://www.cdata.com",
+    "stream_required": "B.E / B.Tech (CSE, IT)",
+    "eligibility": [
+      "70% throughout"
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Entry level Engineers"
+    ],
+    "job_location": "Bengaluru",
+    "date_of_joining": "June 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 8.4 LPA (Rs 66,640 in hand) from day one",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "Day 1:",
+      "\u2022 Pre-orientation session for the registered candidates. Planning for 300",
+      "Students.",
+      "\u2022 Online assessment for all the registered candidates in the first half.",
+      "\u2022 Results to be announced post lunch.",
+      "\u2022 Selected candidates to appear for a programming test in the second half.",
+      "\u2022 Selected candidates for the interview rounds to be announced later in the",
+      "evening.",
+      "Day 2:",
+      "\u2022 F2F Interview with the shortlisted candidates",
+      "\u2022 Offer Role Out to the final shortlisted candidates post lunch",
+      "\u2022 Dinner with the Offered Candidates"
+    ],
+    "category": "tech_roles"
+  }
+]
