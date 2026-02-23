@@ -1,0 +1,121 @@
+2024: july semster 5:
+2025 : semester 6  months start  januanary to jaune
+        semester 7 : july to december
+
+ 2026 : semestete 8 2026 januanary and febauray wala data 
+
+# Placement Screen UI Update — Antigravity Prompt
+
+## ⚠️ Scope
+**Change ONLY the UI.**  
+Do NOT modify:
+- Business logic
+- JSON structure
+- Data models
+- APIs
+- Navigation behavior
+- Click handling
+
+Everything should continue working exactly as before — only the visual hierarchy changes.
+
+---
+
+## 🎯 Goal
+Restructure the Placement screen to display data in this hierarchy:
+
+**Semester → Months → Role Type (Tech / Non-Tech) → Company List**
+
+---
+
+## 📂 Existing Data Mapping
+
+### 2024
+- July → Semester 5
+
+### 2025
+- Semester 6 → January to June
+- Semester 7 → July to December
+
+### 2026
+- Semester 8 → January and February
+
+Use existing JSON — just reflect this structure in UI.
+
+---
+
+## 🧩 New UI Flow
+
+### 1️⃣ Semester Selection Screen
+Show semesters as clickable items (cards or list):
+
+- Semester 5
+- Semester 6
+- Semester 7
+- Semester 8
+
+Clean, modern, scrollable UI.
+
+---
+
+### 2️⃣ Months Screen (after semester click)
+Display only months available for that semester from JSON.
+
+Example:
+- Jan
+- Feb
+- Mar
+- …
+
+---
+
+### 3️⃣ Role Type Sections (after month click)
+
+Show two sections:
+
+- Tech Roles
+- Non-Tech Roles
+
+---
+
+### 4️⃣ Company Listing
+
+Inside each section:
+- Show companies using existing list item UI
+- Keep click behavior exactly the same
+
+---
+
+## 🎨 UI Guidelines
+
+- Follow current app theme and colors
+- Smooth transitions between levels
+- Proper spacing and readability
+- Good scroll performance
+- Show empty state if no data
+- Optional subtle animations (expand / fade)
+
+---
+
+## ❌ Do NOT
+
+- Change repository or ViewModel logic
+- Alter JSON parsing
+- Modify navigation routes
+- Break existing functionality
+
+---
+
+## ✅ Acceptance Criteria
+
+- User can browse placement data semester-wise
+- Months display correctly per semester
+- Tech and Non-Tech grouping visible
+- Company click works exactly as before
+- No logic regression
+
+---
+
+## 📝 Notes
+
+If any ambiguity arises, prioritize:
+> Keeping existing logic untouched and only updating UI composition.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen Theme for Android 12+ -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Inherit from the base splash screen properties in values/themes.xml -->
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo_foreground</item>
+        
+        <!-- Add elegant branding slogan to the bottom (Android 12+ only) -->
+        <item name="android:windowSplashScreenBrandingImage">@drawable/splash_branding</item>
+        
+        <!-- Post-splash screen theme -->
+        <item name="postSplashScreenTheme">@style/Theme.CampusPlacement</item>
+    </style>
+</resources>

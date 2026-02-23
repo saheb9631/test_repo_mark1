@@ -1,0 +1,34 @@
+[
+  {
+    "company_name": "Coding Ninjas",
+    "drive_month": "July 2024",
+    "drive_type": "Virtual",
+    "drive_dates": "Will Intimate",
+    "company_website": "https://www.codingninjas.com/",
+    "stream_required": "B.Tech M.Tech BCA MCA",
+    "eligibility": [
+      "Good communication",
+      "skills"
+    ],
+    "batch": "2024",
+    "roles_offered": [
+      "Admission Counsellor Trainee"
+    ],
+    "job_location": "Gurgaon",
+    "date_of_joining": "Immediate joining",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "Stipend during 3 months training : Rs 25000 per month Salary after 3 months training : CTC 8 LPA (5 LPA Fixed + 3 LPA performance based incentives)",
+      "bond": "NIL"
+    },
+    "selection_process_steps": [
+      "\u2022 Round 1 - Virtual (HR",
+      "Round)",
+      "\u2022 Round 2 - Virtual (Technical Round)",
+      "\u2022 Round 3 - Virtual (PI Round)",
+      
+      "\u00b7 OSD/PA\u2019s"
+    ],
+    "category": "tech_roles"
+  }
+]
