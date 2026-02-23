@@ -1,0 +1,30 @@
+[
+  {
+    "company_name": "Physics Wallah Pvt. Ltd.",
+    "drive_month": "January 2026",
+    "drive_type": "Written Test in Campus Demo will be in PW Vidyapeeth Office (Chandigarh)",
+    "drive_dates": "Will be intimated later",
+    "company_website": "https://www.pw.com",
+    "stream_required": "B.E / B.Tech (All) B.Sc (All) M.Sc (All) B.Ed",
+    "eligibility": [
+      "Those candidates who comes under age of 28 years can apply .",
+      "Good communication skills about Particular subject."
+    ],
+    "batch": "2026",
+    "roles_offered": [
+      "Faculty Training Program (FTP) ( Subjects: Physics | Chemistry",
+      "| Mathematics)"
+    ],
+    "job_location": "Training Location: Noida Deployment Location: Hyderabad",
+    "date_of_joining": "Jan \u20182026 (Leaves will be provided for exams)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "During 4 month Training : CTC 5 LPA (deductions of retention 8 K per month) After 4 month of Training : CTC 7 LPA (deduction of 8 K per month) Note: Retention will be credited after a year .",
+      "bond": "1 year agreement (In any medical emergency or due to any Genuine reason if they will left the company within a year then they have to inform to company )"
+    },
+    "selection_process_steps": [
+      "Written Test"
+    ],
+    "category": "tech_roles"
+  }
+]

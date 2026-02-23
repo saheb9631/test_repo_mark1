@@ -1,0 +1,34 @@
+[
+  {
+    "company_name": "Thought Works Technologies (India) Pvt. Ltd.",
+    "drive_month": "January 2026",
+    "drive_type": "",
+    "drive_dates": "",
+    "company_website": "https://www.thoughtworks.com/en-in",
+    "stream_required": "B.E / B.Tech (CSE / IT / AIML)",
+    "eligibility": [
+      "80% throughout"
+    ],
+    "batch": "2025",
+    "roles_offered": [
+      "Associate Application Developer"
+    ],
+    "job_location": "Chennai",
+    "date_of_joining": "January 2026",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 11.10 LPA from Day one",
+      "bond": ""
+    },
+    "selection_process_steps": [
+      "\u25cf HackerRank",
+      "test",
+      "\u25cf Recruiter screen",
+      "\u25cf Code pairing interview (Technical)",
+      "\u25cf Cultural alignment interview",
+      "\u25cf Offer",
+      "onboarding"
+    ],
+    "category": "tech_roles"
+  }
+]

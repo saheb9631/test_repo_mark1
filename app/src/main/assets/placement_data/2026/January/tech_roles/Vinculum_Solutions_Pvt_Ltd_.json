@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "Vinculum Solutions Pvt. Ltd.",
+    "drive_month": "January 2026",
+    "drive_type": "Virtual",
+    "drive_dates": "January 2026",
+    "company_website": "https://www.vinculumgroup.com/about-us/",
+    "stream_required": "B.E / B.Tech (CSE, IT) Eligibility Criteria (any %age cut ?) 70% throughout",
+    "eligibility": [],
+    "batch": "2026",
+    "roles_offered": [
+      "Graduate Trainee - Techno- Functional"
+    ],
+    "job_location": "Noida",
+    "date_of_joining": "February\u201926 (leaves will be provided for examination)",
+    "package_salary": {
+      "stipend": "",
+      "ppo_ctc": "CTC 5 to 5.5 LPA from Day one",
+      "bond": "Employment Bond agreement for a period of 2 years (1 lac penalty if breach the bond)"
+    },
+    "selection_process_steps": [
+      "o Technical Test",
+      "o HR Interview",
+      "o Panel Interview"
+    ],
+    "category": "tech_roles"
+  }
+]
