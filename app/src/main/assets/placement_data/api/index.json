@@ -1,0 +1,66 @@
+{
+  "last_updated": "2026-02-18T00:38:58.366969",
+  "years": [
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "summary": {
+    "total_companies": 206,
+    "by_year": {
+      "2024": 1,
+      "2025": 188,
+      "2026": 17
+    }
+  },
+  "structure": {
+    "2024": {
+      "months": [
+        "July"
+      ],
+      "company_counts": {
+        "July": 1
+      }
+    },
+    "2025": {
+      "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "company_counts": {
+        "January": 1,
+        "February": 5,
+        "March": 4,
+        "April": 3,
+        "May": 7,
+        "June": 11,
+        "July": 16,
+        "August": 18,
+        "September": 22,
+        "October": 32,
+        "November": 36,
+        "December": 33
+      }
+    },
+    "2026": {
+      "months": [
+        "January",
+        "February"
+      ],
+      "company_counts": {
+        "January": 14,
+        "February": 3
+      }
+    }
+  }
+}
