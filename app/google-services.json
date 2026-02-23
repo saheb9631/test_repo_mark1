@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098666062707",
+    "project_id": "placementready-ac64c",
+    "storage_bucket": "placementready-ac64c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098666062707:android:b2bc75858a84121fbd4b06",
+        "android_client_info": {
+          "package_name": "com.Placements.Ready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098666062707-butmdb9b03tpnltttt7drpf0ffv4ibmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Placements.Ready",
+            "certificate_hash": "0a0891cde6c720f49db1a45afcc10c75e73b3453"
+          }
+        },
+        {
+          "client_id": "1098666062707-9hnu877opsl05a2qcfph90429tjehshs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqhOsXAejlrA6ylr2wOyWZ13gbkHohRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098666062707-9hnu877opsl05a2qcfph90429tjehshs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
