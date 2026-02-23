@@ -1,0 +1,13 @@
+.DS_Store
+# Android build files
+**/build/
+*.apk
+*.dex
+# User-specific files
+.idea/
+.gradle/
+local.properties
+# Other temporary files
+capture/
+**/ignore_this_files/
+**/all_Document_file/
